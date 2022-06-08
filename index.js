@@ -1,5 +1,5 @@
 // 1. Variable 
-// 2. operator
+// 2. operator + - * / ; 
 // 3. data type
 // 4. loop 
 // 5. condition 

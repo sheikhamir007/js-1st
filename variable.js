@@ -56,15 +56,68 @@
 // console.log('totalPhoneIget: ', totalPhoneIget);
 
 
-function sum(apple,phone, pen,ball){
-var price1 = apple + phone + pen + ball;
-//var price2 = pen + ball;
-//var totalPrice = price1 + price2;
-return price1;
+// function sum(apple,phone, pen,ball){
+// var price1 = apple + phone + pen + ball;
+// var price2 = pen + ball;
+// var totalPrice = price1 + price2;
+// return price1;
+// }
 
-}
-var result = sum(10 , 20 , 5 , 10 );
-console.log( 'result:', result);
+// var result = sum(10 , 20 , 5 , 10 );
+// console.log( 'result:', result);
+
+// variable -> array -> condition -> function ; 
+
+
+// var firstName = 'zubi';
+// var lastName = 'khan';
+// var fullName = firstName + ' ' + lastName;
+// console.log(fullName);
+
+// var numberOne = 200;     // -> integer
+// var numberTwo = 2.2345;   // -> float
+// var numberString = '20';  // string to integer
+// var stringToNumber = parseInt(numberString);
+// var numTwo = numberTwo.toFixed(2);
+
+// var fullNum = numberOne + stringToNumber;
+// var fullNum2 = numberOne + numberTwo;
+// var fullNum3 = numberOne + numTwo;
+// console.log(fullNum);
+// console.log(fullNum2);
+// console.log(fullNum3);
+
+// var tshirtPrice1 = 200;
+// var tshirtPrice2 = "200";
+// var tshirtPrice3 = 20.1234;
+// var tshirtPrice4 = true;
+// var tshirtPrice5;
+// var today = new Date();     //-> 4-5 din por
+
+// console.log(typeof tshirtPrice1)
+// console.log(typeof tshirtPrice2)
+// console.log(typeof tshirtPrice3)
+// console.log(typeof tshirtPrice4)
+// console.log(typeof tshirtPrice5)
+// console.log(today);
+// console.log(typeof today);
+
+// let and const -> 
+
+// var age1 = 20;
+// let age2 = 30;
+// age2 = 500;
+// const age3 = 400;
+// console.log(age1);
+// console.log(age2);
+
+
+
+
+
+
+
+
 
 
 

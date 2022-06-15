@@ -10,14 +10,11 @@
 // }
 
 
-
-
-
-let money = true ;
-let taka = 200;
-let phone = 300;
-let apple = 280;
-let computer = 1000;
+// let money = true ;
+// let taka = 200;
+// let phone = 300;
+// let apple = 280;
+// let computer = 1000;
 
 
 // if(money == true){
@@ -35,8 +32,4 @@ let computer = 1000;
 // }else{
 //     console.log('back to home');
 // }
-
-
-
-
 // node variable.js

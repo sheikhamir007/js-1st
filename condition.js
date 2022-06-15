@@ -33,3 +33,6 @@
 //     console.log('back to home');
 // }
 // node variable.js
+
+
+console.log('test');

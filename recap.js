@@ -65,14 +65,14 @@
     //     console.log('go home');
     // }
 
-    var Name = ['ami ' , 'tumi'  , 'tui' , 30 , true];
-    var value =  Name.length;
+    // var Name = ['ami ' , 'tumi'  , 'tui' , 30 , true];
+    // var value =  Name.length;
 
-    if ( 4 > value ) {
-        console.log('ok');
-    }else{
-        console.log('not ok')
-    }
+    // if ( 4 > value ) {
+    //     console.log('ok');
+    // }else{
+    //     console.log('not ok')
+    // }
 
   
 

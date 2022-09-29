@@ -13,7 +13,7 @@
     //  console.log(user,school, age);
     //  console.log( "4 + 4" );
 
-    // srting 
+    // string 
 
     // var str = " i am zubi , i am amir";
     // console.log(str)
@@ -50,9 +50,6 @@
     // }
 
 
-
-
-
     // function data() {
     //     var a =10;
     //     var b =10;
@@ -66,6 +63,7 @@
     //     var c = a+b;
     //     return c;
     // }
+
 
     var give = 1;
 
@@ -88,8 +86,18 @@
     // }
 
     
+    function one() {
+        var a = 100;
+        return a;
+    }
 
-    
+    function two() {
+        var b = 20;
+        return b;
+    }
 
-
-  
+    if ( one() < two()) {
+        console.log('hello world')
+    }else{
+        console.log('good night')
+    }

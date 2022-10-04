@@ -112,6 +112,10 @@
 // console.log(age2);
 
 
+// array and operator 
+
+
+
 
 
 

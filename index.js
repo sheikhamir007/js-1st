@@ -86,18 +86,18 @@
     // }
 
     
-    function one() {
-        var a = 100;
-        return a;
-    }
+    // function one() {
+    //     var a = 100;
+    //     return a;
+    // }
 
-    function two() {
-        var b = 20;
-        return b;
-    }
+    // function two() {
+    //     var b = 20;
+    //     return b;
+    // }
 
-    if ( one() < two()) {
-        console.log('hello world')
-    }else{
-        console.log('good night')
-    }
+    // if ( one() < two()) {
+    //     console.log('hello world')
+    // }else{
+    //     console.log('good night')
+    // }

@@ -74,10 +74,73 @@
     //     console.log('not ok')
     // }
 
-  
+    // array and operator 
+
+    var items = ['cow' , 'paper', 'ball', 'pen' , 'dog'];
+    // items.push('amir');
+    // console.log(items);
+    
+    // var items = ['cow' , 'paper', 'ball', 'pen' , 'dog'];
+    // var pushData = items.push('amir');
+    // console.log(items);
+
+    // var popData = items.pop();
+    // console.log(items);
+
+    // var len = items.length;
+    // console.log(len);
+
+    // if(len > 6 ){
+    //     console.log('ok');
+    // }else{
+    //     console.log('not ok');
+    // }
+
+    // var items = ['cow' , 'paper', 'ball', 'pen' , 'dog']; 
+    // for(var i = 0;  i < items.length ; i++){
+    //     var amir = items[i];
+    //     console.log(i, amir);
+    // }
+
+    // var data1 = 200 ;
+    // var data2 = "i love u ";
+    // var data3 = 20.2324 ;
+    // var data4 = true;
+    // var data5 ;
+    // var data6 = new Date();
+    // var data = data3.toFixed(2);
+
+    // console.log(typeof(data1));
+    // console.log(typeof(data2));
+    // console.log(typeof(data3));
+    // console.log(typeof(data4));
+    // console.log(typeof(data5));
+    // console.log(typeof(data6));
+    // console.log(data);
+ 
+    
+
+    // function data( pen , ball){
+    //     var price = pen + ball;
+    //     return price;  
+    // }
+    // var result = data(9,9);
+    // console.log(result);
+
+    // var apply = 70 ;
+    // var applyPrice = 10; 
+    // var result = apply * applyPrice;
+    // var resultOne = apply / applyPrice;
+    // console.log(result);
+    // console.log(resultOne);
+
+
 
 
     
+
+
+
 
 
 
